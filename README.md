@@ -1,2 +1,2 @@
 # Java
-Exercicios em Java
+Aplicações e Exercícios em Java
